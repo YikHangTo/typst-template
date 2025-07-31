@@ -5,6 +5,6 @@
 #bibliography(
   "references.bib",
   title: "Bibliography",
-  full: false
+  full: false,
   style: "vancouver"
 )
