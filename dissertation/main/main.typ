@@ -6,5 +6,5 @@
   "references.bib",
   title: "Bibliography",
   full: false
-  style: "vancouver
+  style: "vancouver"
 )
